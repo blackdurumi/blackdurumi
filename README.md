@@ -23,6 +23,6 @@ Interested in Various fields in Computer Science
 
 ## etc
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonww)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonww&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoonww)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoonww&theme=react)](https://github.com/anuraghazra/github-readme-stats)
