@@ -25,4 +25,4 @@ Interested in Various fields in Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonww&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoonww&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/e61baaa2-2846-4003-b368-3de08e0daf27.png" width=550 height=400/></a>
