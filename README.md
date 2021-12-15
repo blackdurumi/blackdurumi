@@ -4,13 +4,15 @@
 
 ### Jung-hoon Lee
 Born in Busan, Korea in 1998<br>
-Now in Seoul, Korea<br>
+Now live in Seoul, Korea<br>
 <br>
-Korea University Computer Science & Engineering(2017.03~)<br>
-Undergraduate student<br>
+Korea University Computer Science & Engineering<br>
+Undergraduate student(2017.03~)<br>
+Junior<br>
 <br>
-Interested in Various fields in Computer Science
+Interested in Deep Learning and Deep Neural Network
 <br>
+Mainly uses Python and C++
 <br>
 
 ## About my github
