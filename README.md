@@ -21,7 +21,8 @@ Mainly uses Python and C++
 ## solved.ac(Baekjoon online judge)
 ### Algorithm Problem Solving ability
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonww)](https://solved.ac/hoonww)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonww)](https://solved.ac/hoonww)<br>
+https://solved.ac/profile/hoonww
 
 ## etc
 
