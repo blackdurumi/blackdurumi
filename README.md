@@ -4,13 +4,15 @@
 
 ### Jung-hoon Lee
 Born in Busan, Korea in 1998<br>
-Now live in Seoul, Korea<br>
+Live in Seoul, Korea<br>
 <br>
 Korea University Computer Science & Engineering<br>
 Undergraduate student(2017.03~)<br>
-Junior<br>
+Senior<br>
 <br>
-Interested in Deep Learning and Deep Neural Network
+Working as an Intern in RecSys team of Kakao Corp.(2022.01~2022.02)
+<br>
+Interested in ML, RL, and RecSys
 <br>
 Mainly uses Python and C++
 <br>
