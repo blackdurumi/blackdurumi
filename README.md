@@ -10,8 +10,8 @@ Korea University Computer Science & Engineering<br>
 Undergraduate student(2017.03~)<br>
 Senior<br>
 <br>
-Worked as an Intern in RecSys team of Kakao Corp.(2022.01~2022.02)
-Software Maestro 13th(2022.04~)
+Worked as an Intern in RecSys team of Kakao Corp.(2022.01\~2022.02)<br>
+Software Maestro 13th(2022.04\~)
 <br>
 Interested in ML, MLOps and RecSys
 <br>
