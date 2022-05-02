@@ -5,14 +5,18 @@
 ### Jung-hoon Lee
 Born in Busan, Korea in 1998<br>
 Live in Seoul, Korea<br>
-<br>
+
+#### Study
 Korea University Computer Science & Engineering<br>
 Undergraduate student(2017.03~)<br>
 Senior<br>
 <br>
+#### Career
 Worked as an Intern in RecSys team of Kakao Corp.(2022.01\~2022.02)<br>
-Software Maestro 13th(2022.04\~)
 <br>
+Software Maestro 13th(2022.04\~)<br>
+<br>
+#### Skills
 Interested in ML, MLOps and RecSys
 <br>
 Mainly uses Python and C++
@@ -25,7 +29,6 @@ Mainly uses Python and C++
 ### Algorithm Problem Solving ability
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonww)](https://solved.ac/hoonww)<br>
-https://solved.ac/profile/hoonww
 
 ## etc
 
