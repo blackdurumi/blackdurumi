@@ -2,7 +2,7 @@
 
 # About me
 
-## Jung-hoon Lee
+## Jung-hoon Lee(BlackDurumi)
 Born in Busan, Korea in 1998<br>
 Live in Seoul, Korea<br>
 
@@ -133,6 +133,12 @@ in
 <img src="https://img.shields.io/badge/K8s-326CE5?style=plastic&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=plastic&logo=GitHub Actions&logoColor=white"/></a>
 
+
+### Interests
+
+* ML
+* ML OPS
+* RecSys
 
 
 
