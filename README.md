@@ -7,9 +7,8 @@ Born in Busan, Korea in 1998<br>
 Live in Seoul, Korea<br>
 
 ### Study
-Korea University Computer Science & Engineering<br>
-Undergraduate student(2017.03~)<br>
-Senior<br>
+Korea University(2017.03~2023.02)<br>
+Bachelor of Computer Science & Engineering(prospective)<br>
 
 ### Career
 |Institution|Content|Start|End|
@@ -17,7 +16,8 @@ Senior<br>
 |Korea Univ. Database Lab|Lab Intern|2020.12|2021.10|
 |한국데이터산업진흥원|데이터청년캠퍼스|2021.06|2021.08|
 |Kakao Corp. RecoTeam|Intern|2022.01|2022.02|
-|한국정보산업연합회|Software Maestro 13th|2022.04|~|
+|한국정보산업연합회|Software Maestro 13th|2022.04|2022.12|
+|Coupang Eats|Back-end Engineer|2022.12|~|
 
 
 ### Skills
@@ -25,8 +25,7 @@ Senior<br>
 Editor : 
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=Vim&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white"/></a>
 
 Algorithm Problem Solving : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>,
@@ -46,8 +45,8 @@ Back-End :
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
 with
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>,
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>
 
 Communication : 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>,
