@@ -84,3 +84,7 @@ Version Control :
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/e61baaa2-2846-4003-b368-3de08e0daf27.png" width=350 height=300/></a>
 
+
+### Sites
+[Linked-in](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-174299241/)
+[Tech blog](https://velog.io/@hoonww)
