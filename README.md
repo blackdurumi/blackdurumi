@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&text=Welcome%20to%20BlackDurumi's%20Github!&animation=twinkling&fontSize=46&fontAlignY=30)
 
-# About me
-
 ## Jung-hoon Lee(BlackDurumi)
 Born in Busan, Korea in 1998<br>
 Live in Seoul, Korea<br>
@@ -11,13 +9,13 @@ Korea University(2017.03~2023.02)<br>
 Bachelor of Computer Science & Engineering(prospective)<br>
 
 ### Career
-|Institution|Content|Start|End|
-|---|---|---|---|
-|Korea Univ. Database Lab|Lab Intern|2020.12|2021.10|
-|한국데이터산업진흥원|데이터청년캠퍼스|2021.06|2021.08|
-|Kakao Corp. RecoTeam|Intern|2022.01|2022.02|
-|한국정보산업연합회|Software Maestro 13th|2022.04|2022.12|
-|Coupang Eats|Back-end Engineer|2022.12|~|
+|Institution|Content|Team|Start|End|
+|---|---|---|---|---|
+|Korea Univ.|Lab Intern|Database Lab|2020.12|2021.10|
+|한국데이터산업진흥원|데이터청년캠퍼스|Team4|2021.06|2021.08|
+|Kakao Corp.|Intern|RecoTeam(추천팀)|2022.01|2022.02|
+|한국정보산업연합회|Software Maestro 13th|못하는게Ops(SWM13-Dazaram)|2022.04|2022.12|
+|Coupang|Back-end Engineer|Eats Engineering|2022.12|~|
 
 
 ### Skills
@@ -71,6 +69,12 @@ Version Control :
 * RecSys
 
 
+### Sites
+[Linked-in](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-174299241/)
+<br>
+[Tech blog](https://velog.io/@hoonww)
+
+
 
 ### Algorithm Problem Solving([solved.ac](solved.ac))
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonww)](https://solved.ac/hoonww)
@@ -80,11 +84,6 @@ Version Control :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonww&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonww&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/e61baaa2-2846-4003-b368-3de08e0daf27.png"></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/e61baaa2-2846-4003-b368-3de08e0daf27.png" width=350 height=300/></a>
-
-
-### Sites
-[Linked-in](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-174299241/)
-[Tech blog](https://velog.io/@hoonww)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/8116683c-3f6c-43d1-a833-8845c63eb669.png"></a>
