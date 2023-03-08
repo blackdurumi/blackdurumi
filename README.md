@@ -6,7 +6,7 @@ Live in Seoul, Korea<br>
 
 ### Study
 Korea University(2017.03~2023.02)<br>
-Bachelor of Computer Science & Engineering<br>
+Bachelor of Engineering in Computer Science & Engineering<br>
 
 ### Career
 |Institution|Content|Team|Start|End|
