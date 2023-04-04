@@ -110,7 +110,7 @@ Version Control :
 
 ### Coding Activities
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonww&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackdurumi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@hoonww/e61baaa2-2846-4003-b368-3de08e0daf27.png"></a>
 
