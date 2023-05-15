@@ -12,9 +12,9 @@ Bachelor of Engineering in Computer Science & Engineering<br>
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
 |Korea Univ.|Lab Intern|Database Lab|2020.12|2021.10|
-|한국데이터산업진흥원|데이터청년캠퍼스|Team4|2021.06|2021.08|
-|Kakao Corp.|Intern|RecoTeam(추천팀)|2022.01|2022.02|
-|한국정보산업연합회|Software Maestro 13th|못하는게Ops(SWM13-Dazaram)|2022.04|2022.12|
+|한국데이터산업진흥원|데이터청년캠퍼스|4조|2021.06|2021.08|
+|Kakao Corp.|Intern|RecoTeam|2022.01|2022.02|
+|한국정보산업연합회|Software Maestro 13th|못하는게Ops|2022.04|2022.12|
 |Coupang|Back-end Engineer|Eats Engineering|2022.12|~|
 
 
@@ -58,7 +58,6 @@ Back-End :
 Storage : 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=plastic&logo=ApacheHadoop&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=plastic&logo=ApacheHive&logoColor=white"/></a>
 <br>
 
@@ -93,7 +92,7 @@ Version Control :
 * Back-End Engineering
 * Data Engineering
 * ML
-* ML OPS
+* MLOps
 * RecSys
 
 
