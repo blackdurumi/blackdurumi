@@ -31,15 +31,6 @@ Algorithm Problem Solving :
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 <br>
 
-ML : 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=Pandas&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/scikit learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/></a>
-
 Front-End : 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>,
@@ -48,7 +39,6 @@ Front-End :
 <br>
 
 Back-End : 
-<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=Gradle&logoColor=white"/></a>,
@@ -61,16 +51,10 @@ Storage :
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=plastic&logo=ApacheHive&logoColor=white"/></a>
 <br>
 
-DevOps : 
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=plastic&logo=Amazon API Gateway&logoColor=white"/></a>
-<br>
-
 Infra : 
 <img src="https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=Apache Kafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=Apache Kafka&logoColor=white"/></a>,
+<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=NGINX&logoColor=white"/></a>
 <br>
 
 Communication : 
