@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&text=Welcome%20to%20BlackDurumi's%20Github!&animation=twinkling&fontSize=46&fontAlignY=30)
 
 ## Jung-hoon Lee(BlackDurumi)
-Born in Busan, Korea in 1998<br>
-Live in Seoul, Korea<br>
+Hi all, my nickname is 'BlackDurumi', and I am working as a Backend enginner at Coupang Eats.<br>
+I was born in Busan, Korea in 1998 and currently live in Seoul, Korea.
+
 
 ### Study
-Korea University(2017.03~2023.02)<br>
+Korea University(2017.03~2023.02) in Seoul, Korea<br>
 Bachelor of Engineering in Computer Science & Engineering<br>
 
 ### Career
@@ -51,10 +52,9 @@ Storage :
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=plastic&logo=ApacheHive&logoColor=white"/></a>
 <br>
 
-Infra : 
+Others : 
 <img src="https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=Apache Kafka&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=Apache Kafka&logoColor=white"/></a>
 <br>
 
 Communication : 
