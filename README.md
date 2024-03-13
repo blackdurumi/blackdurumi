@@ -52,11 +52,6 @@ Storage :
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=plastic&logo=ApacheHive&logoColor=white"/></a>
 <br>
 
-Others : 
-<img src="https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=plastic&logo=Apache Kafka&logoColor=white"/></a>
-<br>
-
 Communication : 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>,
