@@ -76,7 +76,7 @@ Version Control :
 
 
 ### Sites
-[Linked-in](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-174299241/)
+[Linked-in](https://www.linkedin.com/in/jung-hoon-lee-174299241/)
 <br>
 [Tech blog](https://velog.io/@hoonww)
 
