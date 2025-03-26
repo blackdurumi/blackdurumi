@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&text=Welcome%20to%20BlackDurumi's%20Github!&animation=twinkling&fontSize=46&fontAlignY=30)
 
 ## Jung-hoon Lee(BlackDurumi)
-Hi all, my nickname is 'BlackDurumi', and I am working as a Backend enginner at Coupang Eats.<br>
-I was born in Busan, Korea in 1998 and currently live in Seoul, Korea.
+Hi everyone, my nickname is 'BlackDurumi', and I am working as a Backend enginner at Coupang Eats.<br>
+I'm located in Seoul, Korea.
 
 
 ### Study
@@ -62,17 +62,9 @@ Version Control :
 ### Interests
 
 * Back-End Engineering
+* AI/ML/DL/RL, RecSys, Search & Discovery
 * Data Engineering
-* ML
-* MLOps
-* RecSys
-
-
-### Sites
-[Linked-in](https://www.linkedin.com/in/jung-hoon-lee-174299241/)
-<br>
-[Tech blog](https://velog.io/@hoonww)
-
+* MLOps Engineering
 
 
 ### Algorithm Problem Solving([solved.ac](solved.ac))
