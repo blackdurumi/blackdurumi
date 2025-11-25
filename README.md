@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&text=Welcome%20to%20BlackDurumi's%20Github!&animation=twinkling&fontSize=46&fontAlignY=30)
 
-## Jung-hoon Lee(BlackDurumi)
-Hi everyone, my nickname is 'BlackDurumi', and I am working as a Backend enginner at Coupang Eats.<br>
+## Introduce
+Hi everyone, my nickname is 'BlackDurumi'.<br>
+Currently I'm working as a Backend enginner at Coupang Eats.<br>
 I'm located in Seoul, Korea.
 
 
 ### Study
-Korea University(2017.03~2023.02) in Seoul, Korea<br>
+2014.03 ~ 2017.02<br>
+Jung-san High School in Geyong-gi, Korea<br>
+<br>
+2017.03 ~ 2023.02<br>
+Korea University in Seoul, Korea<br>
 Bachelor of Engineering in Computer Science & Engineering<br>
 
 ### Career
@@ -16,47 +21,26 @@ Bachelor of Engineering in Computer Science & Engineering<br>
 |한국데이터산업진흥원|데이터청년캠퍼스|4조|2021.06|2021.08|
 |Kakao Corp.|Intern|RecoTeam|2022.01|2022.02|
 |한국정보산업연합회|Software Maestro 13th|못하는게Ops|2022.04|2022.12|
-|Coupang|Back-end Engineer|Eats Engineering|2022.12|~|
+|Coupang|Back-end Engineer|Eats Business Engineering|2022.12|~|
 
 
-### Skills
+### Skills(Tech Stack)
 
-Editor : 
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white"/></a>
+Code Editor) Intellij, VS Code, PyCharm
 
-Algorithm Problem Solving : 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
-<br>
+Algorithm Problem Solving) C/C++, Python
 
-Back-End : 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=Gradle&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Groovy-4298B8?style=plastic&logo=Apache Groovy&logoColor=white"/></a>
-<br>
+Backend) Java, Spring, Spring Boot, Spring Data JPA, Kotlin
 
-Storage : 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=plastic&logo=ApacheHive&logoColor=white"/></a>
-<br>
+Unit Test) Spock, Apache Groovy, Kotest
 
-Communication : 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Confluence&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Draw.io-F08705?style=plastic&logo=diagrams.net&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=Markdown&logoColor=white"/></a>
+Data Storage) MySQL, MSSQL, Apache Hive, Redis
 
-Version Control : 
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=plastic&logo=Sourcetree&logoColor=white"/></a>
+Communication) Slack, Jira, Confluence, Notion, Draw.io, Markdown, PlantUML
+
+Version Control) Git, Github
+
+Message Queue) Apache Kafka
 
 
 ### Interests
