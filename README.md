@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&text=Welcome%20to%20BlackDurumi's%20Github!&animation=twinkling&fontSize=46&fontAlignY=30)
 
 ## Introduce
-Hi everyone, my nickname is 'BlackDurumi'.<br>
+Hello everyone, my name is Jung-hoon Lee(이정훈) and my nickname is 'BlackDurumi'.<br>
 Currently I'm working as a Backend enginner at Coupang Eats.<br>
 I'm located in Seoul, Korea.
 
@@ -26,22 +26,16 @@ Bachelor of Engineering in Computer Science & Engineering<br>
 
 ### Skills(Tech Stack)
 
-Code Editor) Intellij, VS Code, PyCharm
-
-Algorithm Problem Solving) C/C++, Python
-
-Backend) Java, Spring, Spring Boot, Spring Data JPA, Kotlin
-
-Unit Test) Spock, Apache Groovy, Kotest
-
-Data Storage) MySQL, MSSQL, Apache Hive, Redis
-
-Communication) Slack, Jira, Confluence, Notion, Draw.io, Markdown, PlantUML
-
-Version Control) Git, Github
-
-Message Queue) Apache Kafka
-
+|  |  |
+|--|--|
+|Code Editor|Intellij, VS Code, PyCharm|
+|Algorithm Problem Solving|C/C++, Python|
+|Backend|Java, Spring, Spring Boot, Spring Data JPA, Kotlin|
+|Test Code|JUnit, Spock, Kotest|
+|Data Storage|MySQL, MSSQL, Apache Hive, Redis, (a little experience of ElasticSearch and Clickhouse)|
+|Communication|Slack, Jira, Confluence, Notion, Draw.io, Markdown, PlantUML|
+|Version Control|Git, Github|
+|Message Queue|Apache Kafka|
 
 ### Interests
 
